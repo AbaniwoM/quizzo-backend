@@ -3,6 +3,8 @@
 ### Deployed Backend Link: 
 [https://quizzo-backend-awfq.onrender.com](https://quizzo-backend-awfq.onrender.com)
 
+Backend local command: `npx tsx server.ts`
+
 
 I built a full-stack AI application using Next.js (React + Tailwind CSS + TypeScript) and Node.js/Express, powered by Google Gemini API function calling. The assistant helps teachers generate quizzes, grade short-answer responses, and summarize class performance. I used the `gemini-1.5-flash` alongside other models as they support function calling.
 
