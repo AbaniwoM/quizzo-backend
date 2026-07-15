@@ -1,6 +1,6 @@
 # Quizzo: The Smart Teaching Assistant
 
-## Deployed Backend Link: 
+### Deployed Backend Link: 
 [https://quizzo-backend-awfq.onrender.com](https://quizzo-backend-awfq.onrender.com)
 
 
